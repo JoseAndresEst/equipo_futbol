@@ -13,7 +13,8 @@ Este repositorio contiene un proyecto en el que se trackea un equipo de fútbol
 
 Para ver los ganadores de la liga española desde el año de su creacion: https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Espa%C3%B1a
 
-![Trofeo]("trofeo.jpg")
+![Trofeo](https://github.com/JoseAndresEst/equipo_futbol/assets/158183248/528849f7-0813-4b7a-a95c-39b7fe2f78f3)
+
 
 Como dijo Cristiano Ronaldo:
 
